@@ -342,5 +342,5 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 chen            学习生
-金晓		天才
+金晓		天才1
 RossLing        hello,everyone!
